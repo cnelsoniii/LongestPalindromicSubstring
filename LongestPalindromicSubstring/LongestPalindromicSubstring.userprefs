@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{4C292A3F-F5A4-491B-B9E2-9347A93D77E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LongestPalindromicSubstring/Program.cs">
+    <Files>
+      <File FileName="LongestPalindromicSubstring/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

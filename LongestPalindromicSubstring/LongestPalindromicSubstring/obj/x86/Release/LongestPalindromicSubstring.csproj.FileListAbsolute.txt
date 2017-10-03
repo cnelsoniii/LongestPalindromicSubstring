@@ -1,0 +1,3 @@
+/Users/CorneliusNelson/Projects/LongestPalindromicSubstring/LongestPalindromicSubstring/bin/Release/LongestPalindromicSubstring.exe
+/Users/CorneliusNelson/Projects/LongestPalindromicSubstring/LongestPalindromicSubstring/obj/x86/Release/LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+/Users/CorneliusNelson/Projects/LongestPalindromicSubstring/LongestPalindromicSubstring/obj/x86/Release/LongestPalindromicSubstring.exe
